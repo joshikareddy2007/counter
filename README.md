@@ -1,1 +1,1 @@
- https://joshikareddy2007.github.io/
+ https://joshikareddy2007.github.io/counter
